@@ -29,9 +29,11 @@ The Juice Drinks website is designed to present a vibrant and engaging online pr
 - **Contact Form:** Allows users to get in touch easily with a built-in Webflow form.
 - **Subscription Option:** Visitors can subscribe to our newsletter for the latest updates and promotions.
 
-<div style="text-align: center;">
-  <img src="/Screenshot/mobile_view.png" alt="Responsive Design" style="max-width: 100%; height: auto;">
-</div>
+<img src="/Screenshot/mobile_view.png" 
+        alt="Picture" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
 
 
 
