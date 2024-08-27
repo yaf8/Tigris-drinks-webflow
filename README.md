@@ -2,7 +2,7 @@
 
 Welcome to the Juice Drinks website! This project showcases a collection of fresh, delicious juice drink offerings. The site was built using Webflow, a powerful tool for designing and developing responsive websites without coding.
 
-![Juice Drinks Banner](\Screenshot\Screenshot_1.png)
+![Juice Drinks Banner](/Screenshot/Screenshot_1.png)
 
 ## 📑 Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the Juice Drinks website! This project showcases a collection of fres
 
 The Juice Drinks website is designed to present a vibrant and engaging online presence for our juice products. It includes sections for featured juices, customer testimonials, subscription options, and a contact form.
 
-![Juice Drink Selection](\Screenshot\Screenshot_2.png)
+![Juice Drink Selection](/Screenshot/Screenshot_2.png)
 
 ## ✨ Features
 
