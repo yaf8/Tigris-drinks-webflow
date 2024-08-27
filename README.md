@@ -2,7 +2,7 @@
 
 Welcome to the Juice Drinks website! This project showcases a collection of fresh, delicious juice drink offerings. The site was built using Webflow, a powerful tool for designing and developing responsive websites without coding.
 
-![Juice Drinks Banner](path_to_image/banner_image.jpg)
+![Juice Drinks Banner](\Screenshot\Screenshot_1.png)
 
 ## 📑 Table of Contents
 
@@ -19,7 +19,7 @@ Welcome to the Juice Drinks website! This project showcases a collection of fres
 
 The Juice Drinks website is designed to present a vibrant and engaging online presence for our juice products. It includes sections for featured juices, customer testimonials, subscription options, and a contact form.
 
-![Juice Drink Selection](path_to_image/juice_selection.jpg)
+![Juice Drink Selection](\Screenshot\Screenshot_2.png)
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ The Juice Drinks website is designed to present a vibrant and engaging online pr
 - **Contact Form:** Allows users to get in touch easily with a built-in Webflow form.
 - **Subscription Option:** Visitors can subscribe to our newsletter for the latest updates and promotions.
 
-![Responsive Design](path_to_image/responsive_design.jpg)
+![Responsive Design](/Screenshot/mobile_view.png)
 
 ## 💻 Technologies Used
 
@@ -38,7 +38,7 @@ The Juice Drinks website is designed to present a vibrant and engaging online pr
 - **JavaScript:** Custom JavaScript (if any) is handled within Webflow's interactions and embeds.
 - **Images and Icons:** All images and icons used on the site are optimized for web usage.
 
-![Webflow Logo](path_to_image/webflow_logo.png)
+![Webflow Logo](/Screenshot/Screenshot_3.png)
 
 ## 🛠️ Setup and Installation
 
@@ -57,7 +57,7 @@ To view the website, simply visit [your website URL]. If you're managing the sit
 - **CMS Collections:** If you’re using Webflow’s CMS, update your juice drink offerings, testimonials, or blog posts directly through the CMS collections.
 - **Static Content:** Update static text and images directly in the Webflow Designer.
 
-![Content Management](path_to_image/content_management.jpg)
+![Content Management](/Screenshot/cms.png)
 
 ## 🤝 Contributing
 
@@ -71,4 +71,4 @@ This project is licensed under the [Your Preferred License]. See the LICENSE fil
 
 For any questions or feedback, feel free to contact us at [your email address] or visit the contact form on the website.
 
-![Contact Us](path_to_image/contact_us.jpg)
+![Contact Us](/Screenshot/contact_us.png)
