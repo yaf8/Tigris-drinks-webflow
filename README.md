@@ -34,8 +34,6 @@ The Juice Drinks website is designed to present a vibrant and engaging online pr
         height="600"
         style="display: block; margin: 0 auto" /> </p>
 
-
-
 ## 💻 Technologies Used
 
 - **Webflow:** The entire website was designed and developed using Webflow, a no-code development platform.
